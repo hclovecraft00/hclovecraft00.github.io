@@ -21,7 +21,11 @@
   *{ box-sizing:border-box; }
   html,body{ margin:0; }
   body{
-    background:var(--paper); color:var(--ink);
+    background:radial-gradient(circle at 50% 50%, rgba(170,220,224,0.35) 0%, #ffffff 74.6%) no-repeat;
+    background-color:#ffffff;      /* white base so the semi-transparent blue reads correctly */
+    background-attachment:fixed;   /* keeps the gradient filling the viewport as you scroll */
+    min-height:100vh;
+    color:var(--ink);
     font-family:-apple-system, "Helvetica Neue", Arial, sans-serif;
     padding:2.2rem clamp(1.2rem,4vw,3.5rem) 5rem;
     -webkit-font-smoothing:antialiased;
@@ -51,7 +55,9 @@
   /* handwritten paragraph */
   .note{
     font-family:'Myfont', cursive;
-    font-size:clamp(1.5rem,2.6vw,2rem); line-height:1.5;
+    font-size:clamp(1.6rem,2.8vw,2.1rem);
+    line-height:0.5;            /* matches your Cargo setting */
+    letter-spacing:-0.103em;    /* matches your Cargo setting */
     margin:0; color:var(--ink);
   }
 
