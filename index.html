@@ -4,6 +4,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Harper Chew</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Goudy+Bookletter+1911&family=Inter:wght@400;500&display=swap" rel="stylesheet">
 <style>
   /* ---- your handwriting, embedded so there are no file paths to break ---- */
   @font-face {
@@ -27,7 +30,7 @@
     min-height:100vh;
     min-height:100dvh;   /* dynamic viewport height — accounts for mobile browser bars */
     color:var(--ink);
-    font-family:-apple-system, "Helvetica Neue", Arial, sans-serif;
+    font-family:"Inter", -apple-system, "Helvetica Neue", Arial, sans-serif;
     padding:2.2rem clamp(1.2rem,4vw,3.5rem) 5rem;
     -webkit-font-smoothing:antialiased;
   }
@@ -48,15 +51,15 @@
   .hero-right{ flex:1 1 340px; }
 
   h1.name{
-    font-family:Georgia, "Times New Roman", serif;
+    font-family:"Goudy Bookletter 1911", Georgia, serif;
     font-weight:400; font-size:clamp(2.4rem,5vw,3.4rem);
-    letter-spacing:0.01em; line-height:1.05; margin:0 0 1.4rem;
+    letter-spacing:0; line-height:1; margin:0 0 1.4rem;
   }
 
   /* handwritten paragraph */
   .note{
     font-family:'Myfont', cursive;
-    font-size:clamp(2.1rem,3.6vw,4.5rem);
+    font-size:clamp(2.1rem,3.6vw,2.9rem);
     line-height:0.5;            /* matches your Cargo setting */
     letter-spacing:-0.103em;    /* matches your Cargo setting */
     /* nudges the first line down to line up with the top of "Harper Chew is".
