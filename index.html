@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Harper Chew</title>
+<style>
+  /* ---- your handwriting, embedded so there are no file paths to break ---- */
+  @font-face {
+    font-family: 'Myfont';
+    font-weight: normal; font-style: normal;
+    src: url('data:font/woff2;base64,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') format('woff2');
+  }
+
+  :root{
+    --paper:#EEF3F1;      /* soft page background, matches your Cargo tone */
+    --ink:#16130F;
+    --muted:#3a3a3a;
+    --tile:#dfe6e3;       /* empty photo placeholder colour */
+  }
+  *{ box-sizing:border-box; }
+  html,body{ margin:0; }
+  body{
+    background:var(--paper); color:var(--ink);
+    font-family:-apple-system, "Helvetica Neue", Arial, sans-serif;
+    padding:2.2rem clamp(1.2rem,4vw,3.5rem) 5rem;
+    -webkit-font-smoothing:antialiased;
+  }
+
+  /* ---- top-right live clock line ---- */
+  .clock{
+    text-align:right; font-size:0.95rem; color:var(--ink);
+    margin-bottom:3.5rem;
+  }
+
+  /* ---- hero: name + audio on the left, handwritten note on the right ---- */
+  .hero{
+    display:flex; gap:clamp(2rem,8vw,10rem);
+    flex-wrap:wrap; align-items:flex-start;
+    margin-bottom:2.5rem;
+  }
+  .hero-left{ flex:1 1 320px; text-align:center; }
+  .hero-right{ flex:1 1 340px; }
+
+  h1.name{
+    font-family:Georgia, "Times New Roman", serif;
+    font-weight:400; font-size:clamp(2.4rem,5vw,3.4rem);
+    letter-spacing:0.01em; line-height:1.05; margin:0 0 1.4rem;
+  }
+
+  /* handwritten paragraph */
+  .note{
+    font-family:'Myfont', cursive;
+    font-size:clamp(1.5rem,2.6vw,2rem); line-height:1.5;
+    margin:0; color:var(--ink);
+  }
+
+  /* ---- minimal audio player ---- */
+  .eyebrow{ font-size:0.9rem; color:var(--muted); margin-bottom:0.5rem; }
+  .player{
+    display:inline-flex; align-items:center; gap:0.7rem;
+    background:#fff; border-radius:999px;
+    padding:0.5rem 1rem; box-shadow:0 1px 5px rgba(0,0,0,.08);
+    font-variant-numeric:tabular-nums; max-width:340px; width:100%;
+  }
+  .player button{
+    border:0; background:var(--ink); color:#fff; width:30px; height:30px;
+    border-radius:50%; cursor:pointer; flex:0 0 auto;
+    display:flex; align-items:center; justify-content:center; font-size:0.8rem;
+  }
+  .player .time{ font-size:0.8rem; color:var(--muted); flex:0 0 auto; }
+  .player .bar{
+    flex:1 1 auto; height:4px; background:#e2e2e2; border-radius:2px;
+    position:relative; cursor:pointer;
+  }
+  .player .bar .fill{
+    position:absolute; left:0; top:0; height:100%; width:0%;
+    background:var(--ink); border-radius:2px;
+  }
+  .track{ font-size:0.85rem; color:var(--muted); margin-top:0.5rem; }
+
+  /* ---- links row ---- */
+  .links{
+    display:flex; justify-content:space-between; flex-wrap:wrap;
+    gap:1rem 2rem; margin:2.5rem 0 3rem; font-size:1rem;
+  }
+  .links a{ color:var(--ink); text-underline-offset:3px; }
+  .links a:hover{ opacity:.6; }
+
+  /* ---- collage ---- */
+  .collage{ position:relative; width:100%; height:640px; margin-top:1rem; }
+  .photo{
+    position:absolute; background:var(--tile) center/cover no-repeat;
+    box-shadow:0 2px 12px rgba(0,0,0,.10);
+    display:flex; align-items:center; justify-content:center;
+    font-size:0.7rem; color:#8a938f; text-align:center; padding:0.3rem;
+  }
+  /* positions roughly follow your Cargo layout — tweak freely */
+  .p1{ left:6%;  top:4%;   width:130px; height:200px; transform:rotate(-1deg); }
+  .p2{ left:15%; top:52%;  width:120px; height:150px; transform:rotate(1deg); }
+  .p3{ left:16%; top:20%;  width:300px; height:330px; }
+  .p4{ left:38%; top:0%;   width:300px; height:250px; transform:rotate(-1deg); }
+  .p5{ left:44%; top:44%;  width:230px; height:170px; }
+  .p6{ left:70%; top:26%;  width:170px; height:230px; transform:rotate(2deg); }
+  .p7{ left:60%; top:70%;  width:210px; height:150px; }
+  .p8{ left:85%; top:60%;  width:150px; height:200px; transform:rotate(-2deg); }
+
+  @media (max-width:720px){
+    .collage{ height:auto; display:flex; flex-wrap:wrap; gap:10px; justify-content:center; }
+    .photo{ position:static; transform:none !important; width:44% !important; height:150px !important; }
+    .clock, .hero-left{ text-align:center; }
+  }
+</style>
+</head>
+<body>
+
+  <!-- ===== live clock line (top right) ===== -->
+  <div class="clock" id="clock">it is currently …</div>
+
+  <!-- ===== hero ===== -->
+  <div class="hero">
+    <div class="hero-left">
+      <h1 class="name">Harper Chew is</h1>
+
+      <div class="eyebrow">listening to</div>
+      <div class="player" id="player">
+        <button id="playBtn" aria-label="Play">&#9654;</button>
+        <span class="time" id="cur">0:00</span>
+        <div class="bar" id="bar"><div class="fill" id="fill"></div></div>
+        <span class="time" id="dur">0:00</span>
+      </div>
+      <div class="track">I Think I&rsquo;m in Love</div>
+      <!-- Replace the src below with your own file (e.g. audio/track.mp3) once uploaded -->
+      <audio id="audio" src="https://freight.cargo.site/m/Y3042036611436611940820521108956/I-Think-I-m-in-Love.mp3" preload="metadata"></audio>
+    </div>
+
+    <div class="hero-right">
+      <!-- EDIT YOUR HANDWRITTEN NOTE HERE -->
+      <p class="note">Scrolling endlessly, playing with solar panels, drinking sweet and sour cocktails, slurring her words, doodling, hallucinating, rambling, devastated, taking pictures, smiling w teeth</p>
+    </div>
+  </div>
+
+  <!-- ===== links (add your real URLs in href) ===== -->
+  <nav class="links">
+    <a href="https://instagram.com/veryfortuitously">taking photos @veryfortuitously</a>
+    <a href="#">writing</a>
+    <a href="#">networking</a>
+    <a href="#">casually archiving</a>
+  </nav>
+
+  <!-- ===== collage: to add a photo, put the file in an images/ folder and set
+       style="background-image:url('images/yourphoto.jpg')" on the tile ===== -->
+  <div class="collage">
+    <div class="photo p1">graduation</div>
+    <div class="photo p2">jars / shelf</div>
+    <div class="photo p3">blue drawing</div>
+    <div class="photo p4">mother &amp; child</div>
+    <div class="photo p5">sky</div>
+    <div class="photo p6">sailing</div>
+    <div class="photo p7">candles</div>
+    <div class="photo p8">portrait</div>
+  </div>
+
+<script>
+  /* ---------- live clock: "it is currently {time of day} on the {ordinal} {month}" ---------- */
+  const ORD = ["","first","second","third","fourth","fifth","sixth","seventh","eighth","ninth","tenth",
+    "eleventh","twelfth","thirteenth","fourteenth","fifteenth","sixteenth","seventeenth","eighteenth",
+    "nineteenth","twentieth","twenty-first","twenty-second","twenty-third","twenty-fourth","twenty-fifth",
+    "twenty-sixth","twenty-seventh","twenty-eighth","twenty-ninth","thirtieth","thirty-first"];
+  const MONTHS = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+  function timeOfDay(h){
+    if(h<5) return "late night";
+    if(h<7) return "early morning";
+    if(h<12) return "morning";
+    if(h===12) return "noon";
+    if(h<17) return "afternoon";
+    if(h<21) return "evening";
+    return "night";
+  }
+  function updateClock(){
+    const d=new Date();
+    document.getElementById("clock").textContent =
+      "it is currently "+timeOfDay(d.getHours())+" on the "+ORD[d.getDate()]+" "+MONTHS[d.getMonth()];
+  }
+  updateClock(); setInterval(updateClock, 30000);
+
+  /* ---------- audio player ---------- */
+  const audio=document.getElementById("audio"), playBtn=document.getElementById("playBtn"),
+        fill=document.getElementById("fill"), bar=document.getElementById("bar"),
+        cur=document.getElementById("cur"), dur=document.getElementById("dur");
+  function fmt(t){ if(!isFinite(t))return"0:00"; const m=Math.floor(t/60),s=Math.floor(t%60); return m+":"+(s<10?"0":"")+s; }
+  audio.addEventListener("loadedmetadata",()=>{ dur.textContent=fmt(audio.duration); });
+  audio.addEventListener("timeupdate",()=>{
+    fill.style.width=(audio.currentTime/audio.duration*100||0)+"%";
+    cur.textContent=fmt(audio.currentTime);
+  });
+  audio.addEventListener("ended",()=>{ playBtn.innerHTML="&#9654;"; });
+  playBtn.addEventListener("click",()=>{
+    if(audio.paused){ audio.play(); playBtn.innerHTML="&#10073;&#10073;"; }
+    else { audio.pause(); playBtn.innerHTML="&#9654;"; }
+  });
+  bar.addEventListener("click",(e)=>{
+    const r=bar.getBoundingClientRect();
+    audio.currentTime=((e.clientX-r.left)/r.width)*audio.duration;
+  });
+</script>
+</body>
+</html>
