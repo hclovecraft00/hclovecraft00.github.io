@@ -14,6 +14,41 @@
     <content:encoded><![CDATA[<p>i sliced the tip of my middle finger the other day. it left a really clean cut, leaving the inner red flesh exposed. it felt as if it could split apart at the slightest tug, unravelling the fibred and reveal bone. i stuck a bandaid on it, it wasnt really going to do anything but ease my mind and censor the ugly wound. taking off the bandaid today i see the two halves conjoined once more</p>]]></content:encoded>
   </item>
   <item>
+    <title>Pigeon mail</title>
+    <link>https://hclovecraft00.github.io/writing/pigeon-mail/</link>
+    <guid>https://hclovecraft00.github.io/writing/pigeon-mail/</guid>
+    <pubDate>Mon, 26 Oct 2026 09:00:00 +0800</pubDate>
+    <description>Tiny boring tools for love and kinship</description>
+    <content:encoded><![CDATA[<p>Many have (pigeon) cooed over the cuteness of this little Telegram bot I built in a morning, though none have been able to articulate why. It’s called Pigeon Mail, a bot for two people. It’s a simple thing, really. All you do is send the bot anything (text, photo, voice note, video, etc.) and it’ll “post” it for you by default. Start the message with “pigeon:” or “sea:” and it’ll adjust the speed of the message’s arrival accordingly. Pigeon is the fastest (1–3 days) and sea the slowest (7–14 days), while post lands anywhere between 1 and 14 days. Each message comes with a postmark timestamping when the letter was sent. The receiver gets no warning that anything is on its way, and there’s no way to reply within the bot, save for a single &lt;3 to tap.</p>
+<p>Once a week the bot will prompt both parties with questions inspired by <em>We’re Not Really Strangers</em>. Answers are revealed only when both parties have answered the prompt. It’s the one part of the bot that asks something of both of us at once. Everything else is a one-way street.</p>
+<p>As a sender, I know why I like it – I’m a person with a lot of sporadic thoughts throughout the day, many of them too random, out of context or benign to share consistently without being considered spam or just straight up “annoying”. I like to put all of that into the bot and let the algorithmic pigeon send it whenever it pleases.</p>
+<p>As a receiver, I enjoy the little surprise, the little reminder that they thought of me on X date at Y time. That, while they were going through the motions, I was somewhere in their mind’s eye and they wanted to say something. It could be picking up the threads of an old conversation long passed, or a random musing as they got their haircut.</p>
+<p>Of course, these are both very personal reasons. I’m sure if you asked the other party, they’d articulate a different set of things.</p>
+<p>Why not just text? They could absolutely send me musings through the standard, immediate channel, but it feels like the bot and its delay somehow let the message (and the sender/receiver) “breathe”.</p>
+<p>I chalk it up to a few things:</p>
+<ol>
+<li>
+<p>Reigniting surprise and wonder<br />
+You can anticipate a message from the pigeon bot. While you expect (hope) that something will come, you can never be sure of what or when. I was reading about another instance of “slow technology”: the Photobox, which prints out random photos from an archive (Odom et al., 2014). It printed four or five photos a month at random, with no lights or sound to announce them. The households that lived with it were frustrated at first, then came round to it over fourteen months, and found themselves looking back on old memories more. Unexpected contact is valued far more than senders predict, and it’s consistently the element of surprise that leads to this (Liu et al., 2023). Surprise is weakest between partners, especially in the age of instant messaging, and a random delay helps to reinstate some of that wonder.</p>
+</li>
+<li>
+<p>“Ambient” something<br />
+Reichelt coined the term in 2007 for the way small, frequent updates let you “keep in touch with people with a level of regularity and intimacy that you wouldn’t usually have access to, because time and space conspire to make it impossible”, mostly in the context of social platforms like Twitter and Facebook. Between them and me, time and space aren’t much of a factor (we both live in Singapore and text all the time), so the bot brings in some “friction”. Somewhere between leaving the house for work and getting home, a digital pigeon might be on its way.</p>
+</li>
+<li>
+<p>No pressure<br />
+There’s usually a subtle (often pleasant) pressure to reply to a text and keep the conversation going (Hall &amp; Baym, 2012). The bot is set up so that whatever pigeon mail I receive comes “fully formed”, with no obligation on my part to reciprocate. A true gift in the Derridean sense, with no “debt” at all.</p>
+</li>
+</ol>
+<p>Such a concept isn’t new, though most versions of it are commercial apps. I built mine on Telegram as it’s what I’m most familiar with, and I despise having to download apps. Telegram allows for a sense of privacy and familiarity, and its bot API is easily accessible. I’m sure many resonate with the experience of having some kind of private channel for “dumping” thoughts. This pigeon bot does very little to alter that experience, but it makes it convenient enough (compared to physical letter writing) to do often. It’s also much easier to keep track of. The bot has a /shoebox feature where you can look through the letters you’ve received. It feels a lot more intimate: less like reading through a chat log and more like opening a literal record book of memories.</p>
+<p>It’s an interesting phenomenon, building things to mediate the speed of our instant technologies. So much time and money spent making messages faster, just for me to install little speed bumps. Instant isn’t bad – logistics SHOULD be instant – but some things should also just be left hanging. If I were more pretentious (or just less lazy), maybe I could spin this into something Bataillean, the eroticism of pigeon mail…</p>
+<p>Derrida, J. (1992). <em>Given Time: I. Counterfeit Money</em> (P. Kamuf, Trans.). University of Chicago Press.<br />
+Hall, J. A. &amp; Baym, N. K. (2012). Calling and texting (too much): Mobile maintenance expectations, (over)dependence, entrapment, and friendship satisfaction. <em>New Media &amp; Society</em>, 14(2), 316–331.<br />
+Liu, P. J., Rim, S., Min, L. &amp; Min, K. E. (2023). The surprise of reaching out: Appreciated more than we think. <em>Journal of Personality and Social Psychology</em>, 124(4), 754–771.<br />
+Odom, W. et al. (2014). Designing for slowness, anticipation and re-visitation: A long term field study of the Photobox. <em>CHI ’14</em>, 1961–1970.<br />
+Reichelt, L. (2007, 1 March). Ambient intimacy. <em>Disambiguity</em>. https://www.disambiguity.com/ambient-intimacy/</p>]]></content:encoded>
+  </item>
+  <item>
     <title>Summer Feeling</title>
     <link>https://hclovecraft00.github.io/writing/summer-feeling/</link>
     <guid>https://hclovecraft00.github.io/writing/summer-feeling/</guid>
@@ -184,7 +219,7 @@
     <link>https://hclovecraft00.github.io/writing/against-telegram-friendship-channels/</link>
     <guid>https://hclovecraft00.github.io/writing/against-telegram-friendship-channels/</guid>
     <pubDate>Mon, 15 Sep 2025 09:00:00 +0800</pubDate>
-    <description>Modern telecommunication applications introduced the concept of non-physical outreach “on-demand” where anywhere, anytime – you can text, meme, and send funny videos.</description>
+    <description>as the title says</description>
     <content:encoded><![CDATA[<p>Modern telecommunication applications introduced the concept of non-physical outreach “on-demand” where anywhere, anytime – you can text, meme, and send funny videos. Perhaps it was a cute bug, perhaps it was a hot take or an awkward encounter. Families, friends, strangers, family friends, a friend of a friend – our social networks seemed to exceed impossible bounds.</p>
 <p>When you’ve got many friends and a big event happens, how do you manage this? Do you copy and paste the same message to each person in your friend group? Or do you selectively pick and choose who gets the message, and amongst them, who gets what version of the message? Or do you not do anything at all?</p>
 <p>Traditionally, Facebook/Instagram used to be the channels one would use to “spread the word” to a large audience simultaneously. For example, your Instagram biography may offer a glimpse into the key details of your being:</p>
