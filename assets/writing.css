@@ -75,6 +75,21 @@ h1.title{
 .body figcaption{ font-size:0.85rem; color:var(--muted); margin-top:0.6rem; }
 .body .footnote{ font-size:0.9rem; color:var(--muted); }
 
+/* link card: a line written as "REPO: https://…" */
+.body .link-card{ margin:0 0 2rem; }
+.body .link-card a{
+  display:inline-flex; align-items:center; gap:0.9rem; max-width:100%;
+  padding:0.7rem 1rem; border:1px solid var(--rule); border-radius:999px;
+  background:rgba(255,255,255,0.55); text-decoration:none; color:var(--ink);
+  transition:border-color .15s, background .15s;
+}
+.body .link-card a:hover{ border-color:var(--ink); background:rgba(255,255,255,0.85); }
+.card-label{
+  font-family:'Myfont', cursive; font-size:2.8rem; line-height:0.5; letter-spacing:-0.08em;
+}
+.card-url{ font-size:0.9rem; color:var(--muted); overflow-wrap:anywhere; }
+.card-arrow{ font-size:0.9rem; }
+
 /* poems: tighter lines, Harper's own spacing kept */
 .verse .body p{ margin:0 0 0.35rem; line-height:1.6; }
 

@@ -1,0 +1,35 @@
+/* escalator lovers: the poem set as an escalator (static).
+   Lines sit on steps (positions taken from Harper's typeset image);
+   the typeset image is centred at the bottom. */
+
+.piece-escalator-lovers{
+  --step:clamp(10px, 3.4vw, 42px);      /* one step of the staircase */
+  --pad:clamp(1rem,4vw,3.5rem);         /* page side padding, as in writing.css */
+  overflow-x:hidden;
+}
+html:has(body.piece-escalator-lovers){ overflow-x:hidden; }
+
+.piece-escalator-lovers .body{
+  font-family:"Goudy Bookletter 1911", Georgia, serif;
+  font-size:1.18rem;
+}
+
+/* each line on its step */
+.piece-escalator-lovers .body p.line{
+  margin:0 0 0.5rem; line-height:1.35; white-space:nowrap; width:fit-content;
+  transform:translateX(calc(var(--s) * var(--step)));
+}
+.piece-escalator-lovers .body p.landing{ height:2.6rem; margin:0; }
+
+/* “canoooo- / -oooood-ling”, stretched */
+.piece-escalator-lovers .body p.stretch{ letter-spacing:0.14em; }
+
+/* the typeset image, centred on the page at the bottom */
+.piece-escalator-lovers .body figure{
+  width:min(640px, calc(100vw - 2 * var(--pad)));
+  margin:3rem 0 0 calc(50vw - var(--pad) - min(320px, calc(50vw - var(--pad))));
+}
+
+@media (max-width:430px){
+  .piece-escalator-lovers .body{ font-size:1.04rem; }
+}
