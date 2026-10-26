@@ -1,0 +1,89 @@
+/* writing pages: same look as the homepage */
+@font-face{
+  font-family:'Myfont';
+  font-weight:normal; font-style:normal;
+  src:url('myfont.woff2') format('woff2');
+}
+:root{ --ink:#16130F; --muted:#3a3a3a; --rule:#c9cfcd; }
+*{ box-sizing:border-box; }
+html,body{ margin:0; }
+body{
+  background:radial-gradient(circle at 50% 50%, rgba(170,220,224,0.35) 0%, #ffffff 74.6%) no-repeat;
+  background-color:#ffffff;
+  background-attachment:fixed;
+  min-height:100vh;
+  min-height:100dvh;
+  color:var(--ink);
+  font-family:"Inter", -apple-system, "Helvetica Neue", Arial, sans-serif;
+  padding:2.2rem clamp(1rem,4vw,3.5rem) 5rem;
+  -webkit-font-smoothing:antialiased;
+}
+
+/* top bar: back link left, live clock right */
+.topbar{ display:flex; justify-content:space-between; align-items:baseline; margin-bottom:4rem; gap:1rem; }
+.home{ font-size:1.05rem; color:var(--ink); text-decoration:none; }
+.home:hover{ opacity:.6; }
+.clock{ font-size:0.95rem; text-align:right; }
+
+/* titles */
+h1.title{
+  font-family:"Goudy Bookletter 1911", Georgia, serif; font-weight:400;
+  font-size:clamp(2.2rem,5vw,3.4rem); line-height:1.05; letter-spacing:0; margin:0 0 0.8rem;
+}
+.list-title{ margin-bottom:3rem !important; }
+.subtitle{ font-size:1.1rem; color:var(--muted); margin:0 0 0.6rem; line-height:1.4; }
+.date{ font-size:0.85rem; color:var(--muted); }
+
+/* the list: poems left, writing right, centred */
+.columns{
+  display:grid; grid-template-columns:repeat(2, minmax(0, 1fr));
+  gap:clamp(2rem,6vw,6rem); max-width:1040px; margin:0 auto;
+}
+.columns .sign{ grid-column:1 / -1; margin-top:1rem; }
+.column-title{
+  font-family:"Goudy Bookletter 1911", Georgia, serif; font-weight:400; line-height:1.05;
+  font-size:clamp(2.2rem,4vw,3rem); margin:0 0 2.4rem;
+}
+.entry{ display:block; color:var(--ink); text-decoration:none; margin-bottom:2.4rem; }
+.entry h3{
+  font-family:"Helvetica Neue", Helvetica, Arial, sans-serif; font-weight:300;
+  font-size:1.5rem; letter-spacing:0; margin:0 0 0.3rem; line-height:1.25;
+}
+.entry:hover h3{ text-decoration:underline; text-underline-offset:4px; text-decoration-thickness:1px; }
+.tag{ margin-left:0.5rem; font-size:0.8rem; color:var(--muted); letter-spacing:0.01em; }
+@media (max-width:720px){
+  .columns{ grid-template-columns:1fr; gap:1rem; }
+}
+
+/* a piece */
+.piece{ max-width:640px; }
+.piece .date{ margin-bottom:2.6rem; }
+.body{ font-size:1.05rem; line-height:1.75; overflow-wrap:break-word; }
+.body p{ margin:0 0 1.2rem; }
+.body h2,.body h3{
+  font-family:"Helvetica Neue", Helvetica, Arial, sans-serif; font-weight:400;
+  font-size:1.3rem; margin:2.4rem 0 0.8rem; line-height:1.3;
+}
+.body h3{ font-size:1.1rem; }
+.body a{ color:var(--ink); text-underline-offset:3px; }
+.body blockquote{ margin:1.6rem 0; padding-left:1.2rem; border-left:1px solid var(--rule); color:var(--muted); }
+.body ul,.body ol{ padding-left:1.3rem; margin:0 0 1.2rem; }
+.body li{ margin-bottom:0.5rem; }
+.body hr{ border:0; border-top:1px solid var(--rule); margin:2.4rem 0; }
+.body figure{ margin:2rem 0; }
+.body img{ max-width:100%; height:auto; display:block; box-shadow:0 2px 12px rgba(0,0,0,.10); }
+.body figcaption{ font-size:0.85rem; color:var(--muted); margin-top:0.6rem; }
+.body .footnote{ font-size:0.9rem; color:var(--muted); }
+
+/* poems: tighter lines, Harper's own spacing kept */
+.verse .body p{ margin:0 0 0.35rem; line-height:1.6; }
+
+/* handwritten sign-off */
+.sign{
+  font-family:'Myfont', cursive; letter-spacing:-0.08em;
+  font-size:3.2rem; line-height:1; margin-top:3rem; color:var(--ink);
+}
+
+@media (max-width:720px){
+  .topbar{ margin-bottom:2.6rem; }
+}

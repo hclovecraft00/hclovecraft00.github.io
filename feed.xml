@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+  <title>Harper Chew — writing</title>
+  <link>https://hclovecraft00.github.io/writing/</link>
+  <description>i just be saying whatever</description>
+  <language>en-sg</language>
+  <item>
+    <title>bandaid</title>
+    <link>https://hclovecraft00.github.io/writing/bandaid/</link>
+    <guid>https://hclovecraft00.github.io/writing/bandaid/</guid>
+    <pubDate>Mon, 26 Oct 2026 09:00:00 +0800</pubDate>
+    <description></description>
+    <content:encoded><![CDATA[<p>i sliced the tip of my middle finger the other day. it left a really clean cut, leaving the inner red flesh exposed. it felt as if it could split apart at the slightest tug, unravelling the fibred and reveal bone. i stuck a bandaid on it, it wasnt really going to do anything but ease my mind and censor the ugly wound. taking off the bandaid today i see the two halves conjoined once more</p>]]></content:encoded>
+  </item>
+  <item>
+    <title>Summer Feeling</title>
+    <link>https://hclovecraft00.github.io/writing/summer-feeling/</link>
+    <guid>https://hclovecraft00.github.io/writing/summer-feeling/</guid>
+    <pubDate>Tue, 31 Mar 2026 09:00:00 +0800</pubDate>
+    <description></description>
+    <content:encoded><![CDATA[<p>There is little need to romanticise their absence </p>
+<p>Where under the scorching sun the warmth of another becomes beastly</p>
+<p>Heaving, sticky and bothersome</p>
+<p>When the heat incites the desire to peel off that intimate layer of skin </p>
+<p>Engulfing your skeletal, muscle tacked frame </p>
+<p>I’ll let the sun beat down on me </p>
+<p>Let the heat sink deep into my bones </p>
+<p>And the growing malaise, thick as humidity</p>
+<p>Ooze from the skull </p>
+<p>Spreading across chest and limbs </p>
+<p>A familiar weight</p>
+<p>An indifferent source</p>]]></content:encoded>
+  </item>
+  <item>
+    <title>On Becoming… Artist!</title>
+    <link>https://hclovecraft00.github.io/writing/on-becoming-artist/</link>
+    <guid>https://hclovecraft00.github.io/writing/on-becoming-artist/</guid>
+    <pubDate>Fri, 06 Feb 2026 09:00:00 +0800</pubDate>
+    <description>My foray into Singapore Art Week (SAW) 2026</description>
+    <content:encoded><![CDATA[<p>Who am I? Well, I am a final-year Economics student in NUS. I enjoy writing, reading, and cycling in my free time. For a fun fact, I am a licensed sailor of non-motorised ships.</p>
+<p>Or if you’re an employer – my experience spans across private and public institutions, equipping me with the right balance of qualitative and quantitative skills.</p>
+<p>Now, I suppose, I have an additional line: I’m an artist, I was exhibited at <em>Entangled Agencies</em> during Singapore Art Week 2026. </p>
+<p>Machine Almanac features four components: a traditional Chinese almanac, a projector displaying a poem next to the almanac, a webcam pointed at the almanac and connected to a laptop running python tesseract OCR, and you – the viewer! With each tear of the almanac’s pages, the webcam re-reads the page, generating a new poem describing your fortunes for the day.</p>
+<p>There were many conceptual threads at play here, and it’ll be difficult to fully articulate them. Here they are in point form:</p>
+<ul>
+<li>My experience and personal love for the Chinese Almanac. It’s been a staple in my very old-fashioned household, where my mother tears a page every day without fail. Besides the sentimentality, I genuinely enjoy its aesthetics.</li>
+<li>TikTok spirituality: something many in my generation fall prey to. The most effective videos being those that start with “No hashtags, no captions, this reading is for YOU”.</li>
+<li>RE: TikTok spirituality: my fascination with algorithmic fortunes. Digital tarot cards, digital roll-the-dice. Those palm reading machines in shopping malls.</li>
+<li>RE:RE: Tiktok spirituality: what exactly makes one “believe”? What makes a fortune “believable”? From a trusted source? If said in a certain way?</li>
+<li>Fortune cookies, temple fortunes – who writes these? Where does meaning originate? </li>
+</ul>
+<p>If I were to condense these into a curatorial statement, it would be:</p>
+<blockquote></blockquote>
+<p><em>Machine Almanac stages timekeeping as a shared ritual between human and machine. Through the act of tearing a calendar page, the human marks a temporal passage, triggering an algorithmic response in the generation of a quatrain poem. Meaning emerges not from the machine’s wisdom, but from the viewer’s interpretive projection. You, the user, is trying to decipher the almanac along with the machine in a case where agency and sense-making has been distributed.</em></p>
+<p>These were questions I’ve been considering for some time. It just so happened that I had the opportunity to attend some workshops hosted by <a href="https://www.instagram.com/supernormal.space/">Supernormal.space</a> on methods of approach for creative technologies. The workshop included an Open Call for artwork proposals to which I (fortunately) chose to answer! This post will be a detailing of that process On Becoming an Artist! </p>
+<h4>Step 1: Concept</h4>
+<figure><img alt="Original idea" src="https://hclovecraft00.github.io/writing/on-becoming-artist/1.jpg" /><figcaption>Original idea</figcaption></figure>
+<p>Begin by sketching out what your work would look like. A really rough idea is all that is needed. It is really the intention/idea behind your work that matters most. Try hard to write a good artist statement but know that the curator would workshop it with you</p>
+<h4><strong>Step 2: Procure Materials</strong></h4>
+<p>A mistake I made was not procuring materials and prototyping immediately. Please get what you need as soon as possible and not work on the algorithm blind like I did. TRUST. </p>
+<h4><strong>Step 3: Setting up</strong></h4>
+<p>There’ll be a day where you can come down to the exhibition space to set up your work. Do not fret — nobody is expecting you to have a “finished” product. This is the time to take a look at the space, the positioning of your piece, and discuss potential alterations to be made.</p>
+<p>My initial idea was to have the webcam face the almanac directly. This changed to angling the webcam, inviting visitors to step closer to the almanac and facilitate tearing of pages.</p>
+<p>Take note of whatever changes are to be made, go home and reflect on them</p>
+<h4><strong>Step 4: Final stretch</strong></h4>
+<p>A few days before the actual exhibition opening date is when things have to really start coming together. Just implement whatever changes there are to be made and be confident!</p>
+<p>This is when you’ll have to start writing your Gallery Sitter Instructions. Here are some tips: </p>
+<ul>
+<li>Start off with a brief introduction of the piece and the interaction flow (if interactive) </li>
+<li>Do a Day-to-Day setup guide. Detail EVERYTHING. For example: “long press the button on the back of the projector to turn it on but do not move the projector.” When I say detail, I mean excessive detail</li>
+<li>Take photos of your set up as a “model template”. Write down the distances of things. For example: “projection should be 5cm to the left of the almanac”.”</li>
+<li>Do a walkthrough of the worst-case scenario</li>
+<li>Include your contact details for the gallery sitter to reach out to</li>
+</ul>
+<p>And that’s it! That is your artist journey!</p>
+<h4>Overall…</h4>
+<p>It was a meaningful experience where I got to meet a lot of interesting people and step somewhere far out of my comfort zone. Some learning points for me, a complete novice, would be to be firm about your artistic choices. In Art (capital A intentional), each placement and decision must’ve been considered. You are the artist here, and you have final say over how you’ll like your piece to be displayed and interacted with — even as an amateur.</p>
+<p>If your piece is interactive, make it obvious through a written sign, sticky notes, whatever. The general public’s perception of a gallery is one where everything is off-limits. No amount of “contextual cues” can override socialisation. I have lots to say on this, especially after visiting <em>The Strange Archive</em> at Singapore Arts Museum (SAM). More in pt 2!</p>
+<p>Finally, just enjoy yourself and be confident! Throughout the exhibition runtime at Aliwal, it felt as if a piece of my consciousness resided in that gallery. It was a rather stressful week as I constantly thought about how people would perceive my art (and by extension, me). I grappled with questions surrounding whether what I did <em>was </em>art, and just <em>what sort of art I</em> wanted to create. Or broadly, what art <em>is </em>at all! Once again, more musings in pt 2.</p>
+<figure><img alt="The exhibition space after dark" src="https://hclovecraft00.github.io/writing/on-becoming-artist/2.jpg" /><figcaption>The exhibition space after dark</figcaption></figure>]]></content:encoded>
+  </item>
+  <item>
+    <title>Ho Chi Minh</title>
+    <link>https://hclovecraft00.github.io/writing/ho-chi-minh/</link>
+    <guid>https://hclovecraft00.github.io/writing/ho-chi-minh/</guid>
+    <pubDate>Mon, 15 Dec 2025 09:00:00 +0800</pubDate>
+    <description>Saigon?</description>
+    <content:encoded><![CDATA[<p>It has been 5 days of me being in Ho Chi Minh, Vietnam! Let’s do a list of things I love</p>
+<p>I love….</p>
+<ul>
+<li>The casual religiosity in the everyday prevalent everywhere. Little shrines dotting the city and positioned smack-centre of store fronts. Joss sticks stuck in holes of cinderblocks and cracks of concrete pavements</li>
+<li>Ca Phe……. There is no greater coffee genre than Vietnamese coffee. Strong, sweet, and goes down so easily. It’s so sinful. I liken it to fruit alcohol at Don Don Donki in terms of indulgence</li>
+<li>Cables hanging overhead, though now cleaned and tidied up into neat bundles, a constant reminder of technological materiality. A physical manifestation of digital connectedness</li>
+<li>Crossing roads. While often said to be the scariest part of Vietnam, I got used to it very quickly! Admittedly, the drivers here are not as hostile as the ones in NYC.</li>
+<li>Grabbike. My favourite mode of transportation. Just so much fun to be on. Insane core training to balance. Very intimate too. I fall in love with my grabbikers a lot, there’s just something about a man going very fast and putting you into mildly life threatening situations</li>
+<li>People telling me I look Vietnamese. It’s like if someone told a weaboo they look Japanese. I am a proud #vinaboo. I’ve been told four times now!</li>
+<li>Groupthink and synergy of everyday commuters. There’s a secret telepathic language going on with bikers of Ho Chi Minh, where they simply know where the other is going at all times.</li>
+<li>Cyclists. Those who persist in this mode of transportation despite all the tribulations</li>
+<li>Shopping. Vietnam has truly become a powerhouse in fashion and design in Southeast Asia. It’s even better than China in my opinion</li>
+<li>Dance culture in local clubs. While I’ve only been in one thus far, the music was pretty good. Goes from Kpop to Manyao to Vinahouse. Much better than Zouk where all they do is play remixes of Shakira and ROSE.</li>
+<li>Dance culture pt.2, they also sync up! Very cutesy movements that everyone can do together. Feels like zumba at some point</li>
+<li>The residential areas just look like my hometown GuTian in Fujian, China.</li>
+<li>BROKEN RICE. Tiny tiny grains of rice with sweet and spicy honey drizzle… truly the best meal to ever exist in this world</li>
+</ul>
+<p>To be continued…</p>]]></content:encoded>
+  </item>
+  <item>
+    <title>escalator lovers</title>
+    <link>https://hclovecraft00.github.io/writing/escalator-lovers/</link>
+    <guid>https://hclovecraft00.github.io/writing/escalator-lovers/</guid>
+    <pubDate>Tue, 09 Dec 2025 09:00:00 +0800</pubDate>
+    <description></description>
+    <content:encoded><![CDATA[<figure><img src="https://hclovecraft00.github.io/writing/escalator-lovers/pasted-image-20261026180525.png" alt="escalator lovers"></figure>
+
+<p>Honey,  </p>
+<p>i’ve grown comfortable with our journey </p>
+<p>a love witnessed through windowpanes</p>
+<p>that one kopitiam,</p>
+<p>our secondary school,</p>
+<p>your mother’s home,</p>
+<p>and the construction that never ends…</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>…I’d linger here forever</p>
+<p>if you’d have me </p>
+<p>wait by the gantry </p>
+<p>down the long escalator </p>
+<p>where walls blur green to blue </p>
+<p>and bored witnesses</p>
+<p>to our tender</p>
+<p>canoooo-</p>
+<p>-ooooood-ling </p>
+<p>as young lovers </p>
+<p>do </p>
+<p>i’ve arrived here once </p>
+<p>and again </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and again </p>
+<p>and</p>
+<p>&nbsp;again</p>
+<p>i’ll take the last train</p>]]></content:encoded>
+  </item>
+  <item>
+    <title>I’m no peach</title>
+    <link>https://hclovecraft00.github.io/writing/im-no-peach/</link>
+    <guid>https://hclovecraft00.github.io/writing/im-no-peach/</guid>
+    <pubDate>Sun, 23 Nov 2025 09:00:00 +0800</pubDate>
+    <description>reflection on persimmons</description>
+    <content:encoded><![CDATA[<p>leather skin </p>
+<p>gives way to flesh </p>
+<p>lurching forth </p>
+<p>a whole that comes apart with ease </p>
+<p>a mess of innards dribbling</p>
+<p>like honey,</p>
+<p>won’t you just </p>
+<p>scrape and tear </p>
+<p>the meat</p>
+<p>from my shell </p>
+<p>and leave me a husk </p>
+<p>once desired</p>]]></content:encoded>
+  </item>
+  <item>
+    <title>Why Study Economics?</title>
+    <link>https://hclovecraft00.github.io/writing/why-study-economics/</link>
+    <guid>https://hclovecraft00.github.io/writing/why-study-economics/</guid>
+    <pubDate>Tue, 16 Sep 2025 09:00:00 +0800</pubDate>
+    <description>Is it eeek-onomics or echoe-nomics?</description>
+    <content:encoded><![CDATA[<p>It’s the second most asked question I get, right after “are you Singaporean?”/”Where’s your accent from?”. I don’t mind it, as each iteration teases out something new, something insightful. I like to think that I am finally ready to put this question to rest and to writing, once and for all. </p>
+<p><strong>Q: Why did you choose to study economics?</strong> </p>
+<p>A: Great question! I was never actually good at economics in JC. I didn’t like it for all the reasons most don’t — it just didn’t make sense to reduce a human person into a set of preferences wrapped up in a utility function. One day, in conversations with my now-ex, I brought up the idea of minimum wage. His retort was quick and snappy: “It’ll just lead to price inflation and why would employers hire someone expensive?”. </p>
+<p>His argument wasn’t necessarily <em>wrong</em> — empirical evidence is conflicting and highly <a href="https://www.phenomenalworld.org/analysis/mexico-minimum-wage/">contextual</a>. Rather, it was the knee-jerk, immediate response that stood out to me. He said it like it was common-sense, as if I was stupid to suggest otherwise. </p>
+<p>I think that’s when it really set in just how ingrained the neoliberal “homo-economics” mental model was, and I figured if we could find a way to articulate a different economics — one turned towards positive/different values — perhaps we could orient people to similar ends, expanding the definition of what is possible while incorporating what is <em>right</em>. Put simply, how do we reformulate the Kool-Aid? </p>
+<p>That’s why I quite like <a href="https://doughnuteconomics.org/">Doughnut Economics</a>. While traditional economic models resemble an infinite canvas with some variable X and Y, the Doughnut instead imposes a strict upper bound to reflect natural, biological limits of the Earth/region, and a lower bound representative of minimum amount economic activity to ensure everyone’s access to basic human needs. </p>
+<p>**Q: How would something like that be implemented? **</p>
+<p>A: Admittedly, we don’t know! It’s definitely not as easy as just letting the “free market” do its thing. It’ll take a lot of work to operationalise and we’ll have to come up with a slew of new metrics and KPIs to ensure we’re on track too. But isn’t that the point? Any fool can point at GDP and recognise it as “inconclusive”, let’s be the fools that try and do something better fitted for human and ecological wellbeing, beyond our standard conceptions of growth. </p>
+<p>The purpose of a system is what it does, yada yada.  </p>
+<p><strong>Q: Isn’t that too different from Economics then? Seems more like a policy issue for the political sciences/sociologists/anthropologists/…</strong></p>
+<p>A: Economics has become increasingly interdisciplinary, expanding into law, behavioural science and even emerging technologies like crypto. The field is fundamentally about how to allocate resources efficiently. We can debate what 1) allocate, 2) resources, and 3) efficient means. It just so happens our current system conceives of it as 1) market mechanisms, 2) global comparative advantage, and 3) minimal state intervention. Economics shapes how we see the world functioning and if we want a different world, we need different economics. None of our processes are wholly “natural”, there is no linear map of human progression.</p>
+<p><strong>Q: So where is your accent from?</strong></p>
+<p>A: Ask me in person.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title>Against Telegram Friendship Channels</title>
+    <link>https://hclovecraft00.github.io/writing/against-telegram-friendship-channels/</link>
+    <guid>https://hclovecraft00.github.io/writing/against-telegram-friendship-channels/</guid>
+    <pubDate>Mon, 15 Sep 2025 09:00:00 +0800</pubDate>
+    <description>Modern telecommunication applications introduced the concept of non-physical outreach “on-demand” where anywhere, anytime – you can text, meme, and send funny videos.</description>
+    <content:encoded><![CDATA[<p>Modern telecommunication applications introduced the concept of non-physical outreach “on-demand” where anywhere, anytime – you can text, meme, and send funny videos. Perhaps it was a cute bug, perhaps it was a hot take or an awkward encounter. Families, friends, strangers, family friends, a friend of a friend – our social networks seemed to exceed impossible bounds.</p>
+<p>When you’ve got many friends and a big event happens, how do you manage this? Do you copy and paste the same message to each person in your friend group? Or do you selectively pick and choose who gets the message, and amongst them, who gets what version of the message? Or do you not do anything at all?</p>
+<p>Traditionally, Facebook/Instagram used to be the channels one would use to “spread the word” to a large audience simultaneously. For example, your Instagram biography may offer a glimpse into the key details of your being:</p>
+<p>“ACSI | NUS’26 | Rugger | @mygirlfriend”</p>
+<p>And perhaps the profile picture features them holding a trophy, or a dog, or something.</p>
+<p>Your posts could hint at the activities you partake in:</p>
+<figure><img alt="Bryan Chia is from ACSI, he plays Rugby, he loves his GF and travelling!" src="https://hclovecraft00.github.io/writing/against-telegram-friendship-channels/1.jpg" /><figcaption>Bryan Chia is from ACSI, he plays Rugby, he loves his GF and travelling!</figcaption></figure>
+<p>As compared to traditional text-based platforms, images as the main mode of communication allows for the curation of the visual self. Instagram’s introduction of stories/reels/lives enabled a shift from the static feed to a much more dynamic mode of self-representation. One can post unpolished images of their day, spontaneous and fleeting 24-hour stories matching the ephemeral moment actually experienced in real life. However, its medium results in its lack. Its public, pictorial nature does not allow for meandering and intimate conversations. The point of Instagram is to show rather than tell, to present rather than process. Its medium simply does not allow for authenticity at its fullest.</p>
+<p>Now, back to the original question. So what does one do when you’ve experienced something big and have 40 people you’ll like to share it to? Perhaps within those 40 there exists a group chat of about 5-7 – maybe you can make multiple group chats that accounts for all 40? But not everyone in that 40 knows each other. One big group chat would be odd as, once again, not everyone knows each other and the only real link between all 40 are their ties to you!</p>
+<p>Technology disrupts and technology (“)solves(“). Telegram, the messaging app of choice amongst (Singaporean university) students, has the option of “broadcast channels”. Originally used by organisations such as news media and brands to reach out to their expansive audiences, youths have repackaged it into “friendship channels”. These channels typically have comments and emoji reactions enabled so when the poster sends something out, each of their many friends can have a separate say. This results in a peculiar phenomenon where distinct conversations occur all at once in the same “comments section” and, while all of them are visible to all members of the broadcast, each strand remains independent of each other. It is neither one-way nor two-way, it’s a really weird in-between.</p>
+<figure><img alt="Everyone only knows you!" src="https://hclovecraft00.github.io/writing/against-telegram-friendship-channels/2.jpg" /><figcaption>Everyone only knows you!</figcaption></figure>
+<p>While ingenious, I can’t help but feel uneasy about it. This sort of “live” feed of a person’s day differs from traditional one-on-one chats or even one big massive group chat. There exists no intersubjectivity, no back-and-forths. It’s where information by the poster is imposed onto the audience.</p>
+<p>I believe that a core tenant of friendships has been the personal bond that exists between two or more.</p>
+<figure><img alt="A 12-on-12 conversation (imagine its 40, my hand hurts)" src="https://hclovecraft00.github.io/writing/against-telegram-friendship-channels/3.jpg" /><figcaption>A 12-on-12 conversation (imagine its 40, my hand hurts)</figcaption></figure>
+<p>There exists a certain curatorial ethos to friendships. It’s not just about having different interests with different people (though that is part of it), it’s the deeper recognition that each friendship exists in its own unique relational space. With one friend I may talk about career anxieties, to another I may talk about my bagpacking plans. Yes, while there exists a shared vocabulary base of my “core” between all of them (say, my background and education history), no conversation or developed friendship between any of them overlap completely. What I share about a big experience would differ as well – I may emphasize gender to one or link it to a childhood memory to another. These aren’t “masks” but just different aspects of who I am that has been brought out, nurtured and developed by the unique individual friend I am conversing with.</p>
+<p>Existing scholarship tends to focus on “context collapse” – the phenomenon where an unintended (and unaccounted for) audience encounters your posts meant for another group (for example, my professor sees me posting about holidaying during recess week). That concept does now work here as all members of a broadcast channel have been vetted and added personally by the poster. I find the term “context flattening” or “context homogenising” much more apt.</p>
+<p>A broadcast channel fixes the poster to one version of themselves. There isn’t room for a responsive, iterative communication form. In a real conversation (online or in-person), what I say is shaped by who I am talking to, and their response shapes what I say next. One can have fun with this and send the same thing to two people and have the question be informed by two different perspectives. I can take the other perspective to the other friend, having them duke it out without each other knowing I was simply the intermediary.</p>
+<p>The obvious counterargument is that these channels are simply efficient and while I understand this logic, I also think it impoverishes the meaning of what friendship means. If the point is information transfer (I started work at XXX, I am getting married!), alright, I see the point, but that is the job of LinkedIn and Instagram. Friendship has never been primarily about <em>just </em>information transfer, it’s about the joy of being known and recognised specifically. It’s why we share memes and flourish it with “literally us”. To share something on an individual basis is to invite them into an experience that recognises and acknowledges said specific relationship – it is an affirmation both to their intrinsic value and your own.</p>
+<p>I am not arguing for a return to the pre-digital pigeon-mail mode of communication or suggesting that all mass social sharing is problematic. Each medium (Instagram posts and stories, Linkedin announcements, Twitter/X threads, etc.) serve their own function. I am simply against the efficiency argument when it comes to something deeply personal such as friendships. The extra, and often subconscious, considerations of “who would really like to hear about this and “how can this piece of information connect to our friendship” is a feature, not a bug (yada yada).</p>
+<p>TLDR: I would much prefer not to start our meetup with: “Hey! I saw this on your channel!”</p>]]></content:encoded>
+  </item>
+  <item>
+    <title>Become Cyclable</title>
+    <link>https://hclovecraft00.github.io/writing/become-cyclable/</link>
+    <guid>https://hclovecraft00.github.io/writing/become-cyclable/</guid>
+    <pubDate>Thu, 21 Aug 2025 09:00:00 +0800</pubDate>
+    <description>Meditations on life, Hokkaido, cycling, Singapore</description>
+    <content:encoded><![CDATA[<p>It has been over a year since I took part in NUS-UTokyo Hokkaido Summer Program. The trip came after a period of narrative weirding in my personal life — I’I had just completed my internship at the Centre for Strategic Futures and started organising with Post-growth Singapore — very significant experiences to say the least. My stay in rural Hokkaido was a salve. I still remember the vastness of the skies and roads, how it got so dark we could observe constellations and galaxies in the sky. I left Hokkaido much less afraid of bugs, much more willing to eat wild plants, and with a deep love for cycling. </p>
+<p>We stayed in Memu Earth Labs, an experimental compound in Taiki Town mainly for engineers/architects to prototype experimental infrastructure. It was a massive area with fields stretching far into the horizon and interesting architectural projects dotted around the compound. We spent most of our time in a barn-like hall where we worked on our end-trip project. There weren’t any public buses available, and with the nearest town being a 2-hour walk away, we naturally took to the bicycle as our main form of transportation.</p>
+<p>The roads were smooth and grid-like, typically used only by large trucks carrying agricultural cargo. Scattered across the countryside were these desire paths that led into the forests, traced to the sea, and guided us to shrines — all paths that were not easily accessible via car. The bicycle was shaping my experience of the environment. While this is a no-brainer, it’s hard to overstate how impactful it is to travel fully embodied in the local environment. In cars you’re stationary, air conditioned, isolated from the world. On a bike you’re attuned to the breeze, texture and bumps of the road, even smells (there were a lot of dairy cow farms around us). With all senses engaged, the feeling is salient — I am not a cartesian observer, but an agent in an ongoing negotiation between rider, machine, environment, intent, effect, consequence. </p>
+<p><em>The Absent Body (Leder, 1990)</em></p>
+<p>This heightened awareness of my corporeal body was significant. Phenomenology is a field concerned with how we experience the world as conscious, embodied beings. While I can only speak for myself, I often find my sensing of my body absent. As I sit on this lawn chair typing away, I can feel the ache in my neck and shoulder from repeated bad posture, I can feel the grass brushing against my soles, I can’t feel my calf, or bicep, or waist. I know they’re there; I just can’t sense it without conscious effort to engage them. My body becomes present in times of disruption, dysfunction, and effort — cycling. </p>
+<p><em>Motor Intentionality</em></p>
+<p>Coined by French philosopher Maurice Merleau-Ponty, motor intentionality is a form of bodily agency — an “integrated suite of skills, capacities, and habits—not all of which are available to consciousness—that enable this unreflective action” (Rietveld 2008). You don’t consciously and meticulously measure yourself against every door to deem your ability to walk through it. Perhaps you’re carrying something pointy and large in your bag, and you feel this odd extension of perception to said temporary, tangible object leading to you turning corners in a unnatural way for fear of damaging the jutting object. This phenomenon is especially acute when I find myself cycling to West Coast Park where I feel this cramping and squeezing around my elbows passing through a particular stretch of pedestrian path next to the highway. It’s a queer feeling as, technically speaking, it is feasible for me to pass through. Yet somehow, I am able to sense the margin of error, the wobbliness and space I need as a novice cyclist. My perception autonomously deemed that path un-cyclable. </p>
+<p>A bicycle, at the end of the day, is a technology, a tool one uses to get from A to B, and a tool is something one can master, and which one can find an extension of himself.</p>
+<p><em>Singapore</em></p>
+<p>If it is not obvious enough, I like cycling. The intentionality, the agency, the flow state. To put it reductively, it’s fun. But cycling in Singapore is not easy temperature-wise, safety-wise, infrastructure-wise, everything-wise. Cycling on the roads are tough as it seems as if every car is out to hit and kill you. Cycling on (government constructed) paths requires dexterity in weaving between pedestrians who decide to walk onto the cycling path for some reason. Furthermore, these cycling “paths” aren’t much of paths at all! Ignoring best practices as demonstrated across the world — they’re just regular pedestrian roads painted a deeper shade of red. </p>
+<p>Its upsetting, really, that such a small country grew to be so car reliant. Yes while Singapore does have a great (but not necessarily reliable) public transport system, it is simply insufficient when looked at relative to our population (yuuka, 2023). On internet forums one can find many expressions of disdain towards cyclists and cycling, and many more renditions of the same “we should, but we just can’t do it because ___” mantra. </p>
+<p>We should cycle even if it is hard. We should cycle <strong>because</strong> it is hard. Not out of masochistic impulse but because the experience can be so meaningful and honest. Cycling helped me become conscious of my own energy expenditure (and carbon footprint) through the felt experience of pedaling against headwind or up an incline. It helped me explore communities and neighborhoods I would have otherwise not gone into. It helped me get to classes on time. It helped me enjoy the journey! </p>
+<p>Let’s cycle, Singapore. </p>
+<ul>
+<li>Leder, D. (1995). <em>The absent body</em> (Repr.). Univ. of Chicago Press</li>
+<li>Rietveld, E. (2008). Situated normativity: The normative aspect of embodied cognition in unreflective action. Mind, 117(468), 973–1001</li>
+<li>yuuka. (2023). Because government says no. <em>From the Red Line</em>. https://medium.com/from-the-red-line/because-government-says-no-461d984f894e</li>
+</ul>]]></content:encoded>
+  </item>
+</channel>
+</rss>
