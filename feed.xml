@@ -6,6 +6,18 @@
   <description>i just be saying whatever</description>
   <language>en-sg</language>
   <item>
+    <title>Puppet rig, or LinoxAI</title>
+    <link>https://hclovecraft00.github.io/writing/puppet-rig/</link>
+    <guid>https://hclovecraft00.github.io/writing/puppet-rig/</guid>
+    <pubDate>Wed, 28 Oct 2026 09:00:00 +0800</pubDate>
+    <description>A small tool for animating cut-out puppets from your own prints and drawings</description>
+    <content:encoded><![CDATA[<p class="link-card"><a href="https://hclovecraft00.github.io/puppet-rig/" target="_blank" rel="noopener"><span class="card-label">use it</span><span class="card-url">hclovecraft00.github.io/puppet-rig</span><span class="card-arrow">&#8599;</span></a></p>
+<p class="link-card"><a href="https://github.com/hclovecraft00/puppet-rig/" target="_blank" rel="noopener"><span class="card-label">repo</span><span class="card-url">github.com/hclovecraft00/puppet-rig</span><span class="card-arrow">&#8599;</span></a></p>
+<p>Puppet Rig turns an image into a jointed puppet, the way a wayang kulit puppet has a body and limbs that turn at their joints. Cut the pieces out of a scan, join them, then move them pose by pose like stop-motion, or live by dragging.</p>
+<p>It can also hold several prints as one piece and switch between them frame by frame, then fill in frames between them with easing and arcs. That makes a flipbook of four lino stamps move more like a swimming fish, without carving more stamps.</p>
+<p>Everything stays in your browser. Export as GIF or MP4.</p>]]></content:encoded>
+  </item>
+  <item>
     <title>bandaid</title>
     <link>https://hclovecraft00.github.io/writing/bandaid/</link>
     <guid>https://hclovecraft00.github.io/writing/bandaid/</guid>
