@@ -6,13 +6,42 @@
   <description>i just be saying whatever</description>
   <language>en-sg</language>
   <item>
+    <title>The programme is a prototype too</title>
+    <link>https://hclovecraft00.github.io/writing/programme-is-a-prototype-too/</link>
+    <guid>https://hclovecraft00.github.io/writing/programme-is-a-prototype-too/</guid>
+    <pubDate>Tue, 17 Nov 2026 09:00:00 +0800</pubDate>
+    <description>On being the internal structure</description>
+    <content:encoded><![CDATA[<p>I, as with many Singaporeans, want to know what I’m getting into. I want to figure out, as rigorously and in as much detail as possible, all the variables and things and answers I should know. I want to narrow the top of the funnel, which would then make it easier (presumably) for me to do good work.</p>
+<p>But what is good work when the work is constantly evolving? How does one define good work for a company with a philosophy that doesn’t exist yet?</p>
+<p>We often say Tangent is an unconventional incubator for unconventional entrepreneurs. There’s lots of material on that online (Vaughn’s “<a href="https://vaughntan.org/tangentlogic">The Tangent thesis</a>” and “<a href="https://vaughntan.org/understory">Unstarving the understory</a>” are good places to start), and just by talking to us you can kind of get that sense. But… did you know we’re also unconventional in our operations?</p>
+<p>We’re seven months in and we’ve just finished our third cohort. When I met Vaughn, I was adequately briefed on how weird this job was going to be. Still, it’s hard for the mind to fully internalise that.</p>
+<p>The start of the programme was rife with the two of us going back and forth on how much structure to give things, and how many limiters and guard rails. Our application form had essentially four questions apart from personal identifiers, one of which was a creative writing exercise (from my time at the CSF).</p>
+<p>Each interview was scheduled for an hour, and I had to sit and try to absorb everything, because everything was new. While my peers travelled across the world for their grad trips, I found myself reading and writing furiously about everything I just did not know.</p>
+<p>Beyond the interviews, there were the forms and the marketing and the constant outreach. There was also the website, answering queries and going to events. During cohort months, I found myself lost and incredibly stretched. Perhaps it’s my youth and general lack of experience, but most internships just gave me one task at a time. Never would I have thought I’d find myself having to build the internal structure from the ground up – where I was the internal structure.</p>
+<p>I realised this wasn’t sustainable. I found myself losing steam by the end of each cohort, dealing with the administrative, the front-facing and the participant-facing sides of things. I started writing down everything I do and identifying which parts are repeatable and “deterministic”.</p>
+<p>Building teaches you what you didn’t know. Like writing, it’s the articulation, or crystallisation, of things that seem heady. For example, throughout the programme I realised my notes were always scattered, so I built an internal note-taking bot for Vaughn and me to contribute to. While building it, I realised there were many different kinds of notes I had to categorise: daily operations, plans for the future, things for me to learn, things for me to do, things for Vaughn to do, etc.</p>
+<p>Amongst other things, I’m now working on the website and the portal to solve form sprawl (at one point we had about seven separate forms).</p>
+<p>What is human stays human. You need strong opinions. (I’ve been reading Lindsay Brainard, who argues AI isn’t creative partly because it has no agency: what it makes doesn’t come out of its own values. Strong opinions do.) I’ve been told to automate myself when it comes to reminding participants to do things, i.e. to make some kind of bot to remind people. Let’s be honest – are you more likely to respond to a bot, or to a human being you see every day (me)?</p>
+<p>The interview process was slowly refined as well. We’ve moved to a three-stage process where we can glimpse the “tangible” stuff better (your business, your plans, your definition of a good living), but we keep the casual, face-to-face conversation. A big part of Tangent is the physical proximity and face time we have with each team. I must know you as a person to know what it’s like to work with you, and to make sure it’ll be enjoyable for both of us. A lot of what I pick up in that conversation I can’t fully write down (Polanyi called it tacit knowledge: “we can know more than we can tell”), and I don’t think it needs to be.</p>
+<p>That’s why the scoring sheet I’ve just started doesn’t decide who gets in. It looks back at past founders and asks whether we’d take them again, so we can check our judgement, not replace it.</p>
+<p>It’s important to have an informed stance on how things should run and how they should look. After seven months, I think I’m finally getting a grasp of it. The idea is not to encapsulate everything and centralise it all. It’s a constant game of walking on a tightrope: keeping enough flexibility in the system to adapt to shocks and changes, and refusing and fighting against ossification, which is, more often than not, internal.</p>
+<p>It was a slow build-up of things that led me to a greater appreciation of uncertainty. It’s a rare opportunity that has taught me invaluable things about how I work and what a working organisation looks like. So, what is good work? For something so new and novel in the world, we cannot expect an answer to be prescribed. We must write our own.</p>
+<ul>
+<li>Brainard, L. (2026). <em>Human Creativity and Artificial Creation</em>. Cambridge University Press. https://www.cambridge.org/core/elements/human-creativity-and-artificial-creation/E336CBEA887BA4E2CA74AF25BDEA083E</li>
+<li>Polanyi, M. (1966). <em>The Tacit Dimension</em>. Doubleday</li>
+</ul>]]></content:encoded>
+  </item>
+  <item>
     <title>PGS Archive</title>
     <link>https://hclovecraft00.github.io/writing/pgs-archive/</link>
     <guid>https://hclovecraft00.github.io/writing/pgs-archive/</guid>
     <pubDate>Wed, 04 Nov 2026 09:00:00 +0800</pubDate>
     <description></description>
     <content:encoded><![CDATA[<p class="link-card"><a href="https://postgrowthsg.github.io/" target="_blank" rel="noopener"><span class="card-label">site</span><span class="card-url">postgrowthsg.github.io</span><span class="card-arrow">&#8599;</span></a></p>
-<p class="link-card"><a href="https://github.com/postgrowthsg/pgs-archive-bot/" target="_blank" rel="noopener"><span class="card-label">repo</span><span class="card-url">github.com/postgrowthsg/pgs-archive-bot</span><span class="card-arrow">&#8599;</span></a></p>]]></content:encoded>
+<p class="link-card"><a href="https://github.com/postgrowthsg/pgs-archive-bot/" target="_blank" rel="noopener"><span class="card-label">repo</span><span class="card-url">github.com/postgrowthsg/pgs-archive-bot</span><span class="card-arrow">&#8599;</span></a></p>
+<p>The average person learns more about an organisation through their social media, this is especially true for civil society groups in Singapore. An issue is that Instagram (beyond the… algo) only allows for a linear, one-way scrolling of the page. Everything is chronological, nothing is categorised. You don’t really get a sense of what is important to the organisation, what they’ve done a lot of, very little of, or nothing of… at all!</p>
+<p>I’m hoping to build a really lightweight and easy-to-use tool for such organisations (aka groups that need their audience to have context) to upload and categorise things easily. I begin with a familiar context -- PostGrowth Singapore and our resource hub! Basically, you send something to a telegram bot, the bot prompts you to categorise it, the bot sends it to a Google spreadsheet which then goes onto the website -- EZPZ!</p>
+<p>We’re currently still iterating… so keep a lookout</p>]]></content:encoded>
   </item>
   <item>
     <title>Puppet rig</title>
