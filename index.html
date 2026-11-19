@@ -92,6 +92,12 @@
   .t-video   { left:4%;  top:5%;  width:225px; height:170px; }
   .t-sailing { left:73%; top:54%; width:170px; height:235px; transform:rotate(-2deg); }
   .t-cycling { left:84%; top:22%; width:150px; height:200px; transform:rotate(1deg); }
+  .t-escalator { left:4%; top:31%; width:152px; height:190px; transform:rotate(-1deg); background:#fff; }
+
+  /* escalator kisses animation (drawings + player in site images/escalator-kisses/) */
+  #escalator-kisses{ position:relative; width:100%; height:100%; --ground:#fff; --ink:#141414; }
+  #escalator-kisses .ground{ position:absolute; inset:0; background:#fff; }
+  #escalator-kisses .art{ position:absolute; inset:0; width:100%; height:100%; display:block; }
 
   @media (max-width:720px){
     .collage{ height:auto; display:flex; flex-wrap:wrap; gap:10px; justify-content:center; }
@@ -138,7 +144,9 @@
     <div class="photo t-video"><video src="site%20images/flipart_video.mp4" autoplay muted loop playsinline></video></div>
     <div class="photo t-sailing" style="background-image:url('site%20images/sailing.jpg')"></div>
     <div class="photo t-cycling" style="background-image:url('site%20images/cycling.jpg')"></div>
+    <div class="photo t-escalator" role="img" aria-label="Animation: hand-drawn couples kissing on an up and a down escalator"><div id="escalator-kisses" data-base="site%20images/escalator-kisses/"></div></div>
   </div>
+  <script src="site%20images/escalator-kisses/escalator.js" defer></script>
 
 <script>
   /* ---------- live clock: "it is currently {time of day} on the {ordinal} {month}" ---------- */
